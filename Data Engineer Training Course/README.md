@@ -12,6 +12,10 @@ Data Visualization
 
 Tableau
 
+Power BI
+
 Cloud Data Warehouse
 
 DevOps and Deployment
+
+Machine Learning
