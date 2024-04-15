@@ -19,5 +19,3 @@ Cloud Data Warehouse
 DevOps and Deployment
 
 Machine Learning
-
-codespace https://probable-goggles-w5w5xvrr5q7fw9w.github.dev/
