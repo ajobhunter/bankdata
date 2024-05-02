@@ -1,1 +1,3 @@
-The man and his wife, talking of the latest armed robbery in the suburb, were distracted by the sight of the little boy's pet cat effortlessly arriving over the seven-foot wall, descending first with a rapid bracing of extended forepaws down on the sheer vertical surface, and then a graceful launch, landing with swishing tail within the property.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0de95e713c1009dc4ce9a8aab5b666fa6906dc6ab99dcd27d13f46f8e2925ab
+size 349
