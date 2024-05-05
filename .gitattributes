@@ -1,3 +1,4 @@
 Household[[:space:]]Power[[:space:]]Computation.psd filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Engineering[[:space:]]Training[[:space:]]Course/10[[:space:]]Machine[[:space:]]Learning/Exercise/Resources/ML[[:space:]]Dataset/Household[[:space:]]Power[[:space:]]Consumption/household_power_consumption.txt filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
